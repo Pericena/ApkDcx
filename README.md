@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://github.com/Pericena/ApkDcx/blob/master/Icon/kisspng-clash-of-clans-subway-surfers-hacker-game-android-settings-icon-pictures-5ab0ec6119ee35.png" alt="Standard - JavaScript Style Guide" width="200"></a>
   <br>
-ApkÂªDcx
+ApkªDcx
   <br>
   <br>
 </h1>
@@ -10,158 +10,80 @@ ApkÂªDcx
 https://lpericena.blogspot.com/2018/11/ApkDcx.html
 
 <p align="center">
-  <a href="https://github.com/Pericena/ApkDcx/tree/master/Documentos"><img src="https://img.shields.io/travis/feross/standard/master.svg" alt="DocumentaciÃ³n"></a>
-  <a href="https://github.com/Pericena/ApkDcx/tree/master/Codigo"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="CÃ³digo"></a>
+  <a href="https://github.com/Pericena/ApkDcx/tree/master/Documentos"><img src="https://img.shields.io/travis/feross/standard/master.svg" alt="Documentación"></a>
+  <a href="https://github.com/Pericena/ApkDcx/tree/master/Codigo"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Código"></a>
   <a href="https://github.com/Pericena/ApkDcx/tree/master/Aplicaci%C3%B3n"><img src="https://img.shields.io/npm/dm/standard.svg" alt="Downloads"></a>
 </p>
-
-
-Ocultar archivos comprimidos en una imagen
-@Pericena :+1: Autor: LuishiÃ±o Pericena Ch :shipit:
+@Pericena :+1: Autor: Luishiño Pericena Ch :shipit:
 
 Es una programa desarrollado en el lenguaje Bat.
 Es un programa desarrollado en el lenguaje Bat, que tiene una dependencia de otros programas 7za.exe, apktool.jar, apktool_2.3.3.jar.
-Los programas nos ayudara a poder descomprimir o descompilar las aplicaciones que son desarrollada en Android, con la extensiÃ³nâ€.apk â€œpara poder modificar el cÃ³digo y mejorar la aplicaciÃ³n.
-Podemos mejorar una aplicaciÃ³n ya que tendremos el cÃ³digo fuente, podrÃ­amos infectar una aplicaciÃ³n con virus entre otras cosas. Para eso debes tener conocimiento en programaciÃ³n con el lenguaje Android.
+Los programas nos ayudara a poder descomprimir o descompilar las aplicaciones que son desarrollada en Android, con la extensión”.apk “para poder modificar el código y mejorar la aplicación.
+Podemos mejorar una aplicación ya que tendremos el código fuente, podríamos infectar una aplicación con virus entre otras cosas. Para eso debes tener conocimiento en programación con el lenguaje Android.
 * Debe tener instalado el programa JAVA. 
-* Descargar nueva versiÃ³n https://www.java.com/es/download/
+* Descargar nueva versión https://www.java.com/es/download/
 
+#### Descargar https://github.com/Pericena/ApkDcx/blob/master/Descargar/ApkDcx.zip
 
-# InstrucciÃ³n ğŸš€
+# Instrucción ??
 sistema opertaivo 
 - windows
 
-### Pre-requisitos ğŸ“‹
+### Pre-requisitos ??
 - Instalar Java
 * https://www.java.com/es/download/
 
-# InstalaciÃ³n ğŸ”§
-Pasos para usar la aplicaciÃ³n MsImAOc
-- Descargar MsImAOc
+# Instalación ??
+Pasos para usar la aplicación
+- Descargar
 - [x] https://github.com/Pericena/ApkDcx
 - [x] https://lpericena.blogspot.com/2018/11/ApkDcx.html
 - [ ] https://www.java.com/es/download/
 
 ## Tabla de Contenido
-1. Paso 1
-https://lpericena.blogspot.com/2018/11/MsImAOc.html
-[![Watch the video](https://github.com/Pericena/MsImAOc/blob/master/Imagenes/Screenshot_1.png)](https://lpericena.blogspot.com/2018/11/MsImAOc.html)
-Introducir en el teclado â€œWindows + E â€œo dirigirse a una carpeta Este Equipo Clic a propiedades de sistema.
 
-2. Paso 2
-Clic a ConfiguraciÃ³n avanzada de sistema 
+# Ejecutando las pruebas ??
 
-3. Paso 3
-Clic a Variable e entorno .
+ApkªDcx
 
-4. Paso 4
-https://lpericena.blogspot.com/2018/11/MsImAOc.html
-[![Watch the video](https://github.com/Pericena/MsImAOc/blob/master/Imagenes/Screenshot_9.png)](https://lpericena.blogspot.com/2018/11/MsImAOc.html)
-
-Dirigirse a PATH damos clic a la opciÃ³n editar.
-
-5. Paso 5
-Nos dirigimos nuevamente a Este equipo disco local donde se instalan los programas en mi caso es el disco local C: y busca la carpeta archivos de programa
+Los paquetes de aplicación de Android (APK) es el formato usado para distribuir e instalar aplicaciónes en el Sistema operativo para móviles Android de Google. Hay muchas razones por las cuales querrías decompilar un APK, por ejemplo para aprender como funciona una aplicación, para incrementar la seguridad y complejidad de tu código,para robar el código fuente de aplicaciones de tercero ... es decir, para analizarlo ... y otras.
+Para decompilar un APK, en este artículo usaremos ApkªDcx, la herramienta de lineas de comando e interfáz gráfica (GUI) para obtener el código fuente de archivos DEX y APK
 
 
-6. Paso 6
-Luego buscamos la carpeta WinRAR 
 
-7. Paso 7
-https://lpericena.blogspot.com/2018/11/MsImAOc.html
-[![Watch the video](https://github.com/Pericena/MsImAOc/blob/master/Imagenes/Screenshot_8.png)](https://lpericena.blogspot.com/2018/11/MsImAOc.html)
-
-Copiamos la ruta C:\Program Files\WinRAR
-
-8. Paso 8
-Clic derecho Copiar o tambiÃ©n control + c
-
-9. Paso 9
-Nos dirigimos nuevamente a la venta entorno de variables y pegamos la ruta con control + v y aceptar
-
-
-10. Paso 10
-Pegar C:\Program Files\WinRAR
-
-
-11. Paso 11
-Aceptar
-
-12. Paso 12
-Aceptar
-
-# Ejecutando las pruebas âš™ï¸
-
-ApkÂªDcx
-
-Los paquetes de aplicaciÃ³n de Android (APK) es el formato usado para distribuir e instalar aplicaciÃ³nes en el Sistema operativo para mÃ³viles Android de Google. Hay muchas razones por las cuales querrÃ­as decompilar un APK, por ejemplo para aprender como funciona una aplicaciÃ³n, para incrementar la seguridad y complejidad de tu cÃ³digo,para robar el cÃ³digo fuente de aplicaciones de tercero ... es decir, para analizarlo ... y otras.
-Para decompilar un APK, en este artÃ­culo usaremos ApkÂªDcx, la herramienta de lineas de comando e interfÃ¡z grÃ¡fica (GUI) para obtener el cÃ³digo fuente de archivos DEX y APK
-
-https://lpericena.blogspot.com/2018/11/MsImAOc.html
-[![Watch the video](https://github.com/Pericena/MsImAOc/blob/master/Imagenes/Screenshot_18.png)](https://lpericena.blogspot.com/2018/11/MsImAOc.html)
-
-[![Video](https://www.youtube.com/watch?v=d5qXfiOgnSY)](https://github.com/Pericena/MsImAOc/blob/master/Video/MsImAOc%20ocultar%20archivos%20comprimido%20en%20una%20imagen%20L7C.mp4
-)
-
-
-## Abrimos nuestro programa nuevamente 
-https://lpericena.blogspot.com/2018/11/MsImAOc.html
-[![Watch the video](https://github.com/Pericena/MsImAOc/blob/master/Imagenes/Screenshot_14.png)](https://lpericena.blogspot.com/2018/11/MsImAOc.html)
-
-* La carpeta aplicaciÃ³n estÃ¡ el programa.
-* La carpeta CÃ³digo encontraras el cÃ³digo fuente para hacerle mejoras a tu gusto y poder contribuir.
+* La carpeta aplicación está el programa.
+* La carpeta Código encontraras el código fuente para hacerle mejoras a tu gusto y poder contribuir.
 * La carpeta documentos encontraras el informe del programa.
-* La carpeta icon encontraras el icono que se usÃ³ para compilar el programa.
-* La carpeta imÃ¡genes veras algunas pruebas y como se usa. 
-Ingresamos a la carpeta aplicaciÃ³n para darle el uso a nuestro programa
+* La carpeta icon encontraras el icono que se usó para compilar el programa.
+* La carpeta imágenes veras algunas pruebas y como se usa. 
+Ingresamos a la carpeta aplicación para darle el uso a nuestro programa
 
 
-## Pasos a seguir:
-* ->Debe instalar WinRAR ingrese la tecla "i".
-* ->Debe ingresar el nombre de la imagen junto con la extensiÃ³n.
-* ->Debe ingresar el nombre del archivo WinRAR junto con la extensiÃ³n.
-* En el archivo WinRAR debe guardar toda la informaciÃ³n q desea ocultar.
-* ->Debe ingresar el nuevo nombre de la imagen junto con la extensiÃ³n.
-* En la nueva imagen estarÃ¡ la informaciÃ³n oculta , solo se puede ver si se abre con el programa WinRAR
-* Ejemplo :[imagen.png] + [Archivo.rar] = [imagen2.png]
-
-
-
-
-* Se creara una carpeta nueva con el nombre ArchivosImag
-* En la carpeta ArchivoImag se guardara las imÃ¡genes comprimidas.
-
-## Para poder visualizarlo tendremos que abrir con el programa WinRAR
-https://lpericena.blogspot.com/2018/11/MsImAOc.html
-[![Watch the video](https://github.com/Pericena/MsImAOc/blob/master/Imagenes/Screenshot_25.png)](https://lpericena.blogspot.com/2018/11/MsImAOc.html)
-
-https://lpericena.blogspot.com/2018/11/MsImAOc.html
-[![Watch the video](https://github.com/Pericena/MsImAOc/blob/master/Imagenes/Screenshot_30.png)](https://lpericena.blogspot.com/2018/11/MsImAOc.html)
 
 
 # Idioma
 <p align="center">
-  <a href="README-en.md">English</a> â€¢
-  <a href="README-esla.md">EspaÃ±ol (LatinoamÃ©rica)</a> â€¢
-  <a href="README-iteu.md">Italiano (Italian)</a> â€¢
-  <a href="README-kokr.md">í•œêµ­ì–´ (Korean)</a> â€¢
-  <a href="README-ptbr.md">PortuguÃªs (Brasil)</a> â€¢
-  <a href="README-zhcn.md">ç®€ä½“ä¸­æ–‡ (Simplified Chinese)</a> â€¢
-  <a href="README-zhtw.md">ç¹é«”ä¸­æ–‡ (Taiwanese Mandarin)</a>
+  <a href="README-en.md">English</a> •
+  <a href="README-esla.md">Español (Latinoamérica)</a> •
+  <a href="README-iteu.md">Italiano (Italian)</a> •
+  <a href="README-kokr.md">??? (Korean)</a> •
+  <a href="README-ptbr.md">Português (Brasil)</a> •
+  <a href="README-zhcn.md">???? (Simplified Chinese)</a> •
+  <a href="README-zhtw.md">???? (Taiwanese Mandarin)</a>
 </p>
 
-### Contribuyendo ğŸ–‡ï¸
-Por favor lee el [CONTRIBUTING.md](https://github.com/Pericena) para detalles de nuestro cÃ³digo de conducta, y el proceso para enviarnos pull requests.
+### Contribuyendo ???
+Por favor lee el [CONTRIBUTING.md](https://github.com/Pericena) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
-# VersiÃ³n ğŸ“Œ
+# Versión ??
 
 Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
 
-## Autor âœ’ï¸
-* **LuishiÃ±o Pericena Choque** - *creador del programa* - [Pericena](https://github.com/Pericena)
+## Autor ??
+* **Luishiño Pericena Choque** - *creador del programa* - [Pericena](https://github.com/Pericena)
 
-## Licencia ğŸ“„
-Este proyecto estÃ¡ bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+## Licencia ??
+Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
 # Bibliografia
 Instalar JAVA
@@ -171,4 +93,4 @@ Descargar ApkDcx
  * https://lpericena.blogspot.com/2018/11/ApkDcx.html
  
 :pencil:
-âŒ¨ï¸ por [Pericena](https://github.com/Pericena) ğŸ˜Š
+?? por [Pericena](https://github.com/Pericena) ??
