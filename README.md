@@ -25,31 +25,28 @@ Podemos mejorar una aplicación ya que tendremos el código fuente, podríamos i
 
 #### Descargar https://github.com/Pericena/ApkDcx/blob/master/Descargar/ApkDcx.zip
 
-# Instrucción ??
+# Instrucción
 sistema opertaivo 
 - windows
 
-### Pre-requisitos ??
+### Pre-requisitos
 - Instalar Java
 * https://www.java.com/es/download/
 
-# Instalación ??
+# Instalación
 Pasos para usar la aplicación
 - Descargar
 - [x] https://github.com/Pericena/ApkDcx
-- [x] https://lpericena.blogspot.com/2018/11/ApkDcx.html
+- [x] https://lpericena.blogspot.com/2019/04/descopila-aplicaciones-apk-con-el.html
 - [ ] https://www.java.com/es/download/
 
-## Tabla de Contenido
 
-# Ejecutando las pruebas ??
+# Ejecutando las pruebas 
 
 ApkªDcx
 
 Los paquetes de aplicación de Android (APK) es el formato usado para distribuir e instalar aplicaciónes en el Sistema operativo para móviles Android de Google. Hay muchas razones por las cuales querrías decompilar un APK, por ejemplo para aprender como funciona una aplicación, para incrementar la seguridad y complejidad de tu código,para robar el código fuente de aplicaciones de tercero ... es decir, para analizarlo ... y otras.
 Para decompilar un APK, en este artículo usaremos ApkªDcx, la herramienta de lineas de comando e interfáz gráfica (GUI) para obtener el código fuente de archivos DEX y APK
-
-
 
 * La carpeta aplicación está el programa.
 * La carpeta Código encontraras el código fuente para hacerle mejoras a tu gusto y poder contribuir.
@@ -59,30 +56,28 @@ Para decompilar un APK, en este artículo usaremos ApkªDcx, la herramienta de l
 Ingresamos a la carpeta aplicación para darle el uso a nuestro programa
 
 
-
-
 # Idioma
 <p align="center">
-  <a href="README-en.md">English</a> •
-  <a href="README-esla.md">Español (Latinoamérica)</a> •
-  <a href="README-iteu.md">Italiano (Italian)</a> •
-  <a href="README-kokr.md">??? (Korean)</a> •
-  <a href="README-ptbr.md">Português (Brasil)</a> •
-  <a href="README-zhcn.md">???? (Simplified Chinese)</a> •
+  <a href="README-en.md">English</a>
+  <a href="README-esla.md">Español (Latinoamérica)</a> 
+  <a href="README-iteu.md">Italiano (Italian)</a> 
+  <a href="README-kokr.md">??? (Korean)</a>
+  <a href="README-ptbr.md">Português (Brasil)</a>
+  <a href="README-zhcn.md">???? (Simplified Chinese)</a>
   <a href="README-zhtw.md">???? (Taiwanese Mandarin)</a>
 </p>
 
-### Contribuyendo ???
+### Contribuyendo
 Por favor lee el [CONTRIBUTING.md](https://github.com/Pericena) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
-# Versión ??
+# Versión
 
 Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
 
-## Autor ??
+## Autor
 * **Luishiño Pericena Choque** - *creador del programa* - [Pericena](https://github.com/Pericena)
 
-## Licencia ??
+## Licencia
 Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
 # Bibliografia
@@ -90,7 +85,7 @@ Instalar JAVA
  * https://www.java.com/es/download/
 Descargar ApkDcx
  * https://github.com/Pericena/ApkDcx
- * https://lpericena.blogspot.com/2018/11/ApkDcx.html
+ *https://lpericena.blogspot.com/2019/04/descopila-aplicaciones-apk-con-el.html
  
 :pencil:
-?? por [Pericena](https://github.com/Pericena) ??
+?? por [Pericena](https://github.com/Pericena)
