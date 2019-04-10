@@ -1,31 +1,31 @@
 <h1 align="center">
-  <a href="https://github.com/Pericena/ApkDcx/blob/master/Icon/kisspng-clash-of-clans-subway-surfers-hacker-game-android-settings-icon-pictures-5ab0ec6119ee35.png" alt="Standard - JavaScript Style Guide" width="200"></a>
+  <a href="https://2.bp.blogspot.com/-qpv0o3oWHYo/XBLEWkBEkLI/AAAAAAAAM-g/VDIYx0zUt2kt8XXtZBGvfE8WwBrF3wsmACLcBGAs/s1600/Screenshot_2.png" alt="Standard - JavaScript Style Guide" width="200"></a>
   <br>
-Apk™Dcx
+Apk¬™Dcx
   <br>
   <br>
 </h1>
 
-[![ApkDcx](https://github.com/Pericena/ApkDcx/blob/master/Icon/kisspng-clash-of-clans-subway-surfers-hacker-game-android-settings-icon-pictures-5ab0ec6119ee35.png)](https://lpericena.blogspot.com/2018/11/ApkDcx.html)
-https://lpericena.blogspot.com/2018/11/ApkDcx.html
+[![ApkDcx](https://3.bp.blogspot.com/-Vz-LMvtHWN0/XKdf6hIw8TI/AAAAAAAAOek/h7fmIZkIpX4fzbEZrM8PNAG7aYIPguOQQCLcBGAs/s1600/Screenshot_6.png)](https://lpericena.blogspot.com/2019/04/descopila-aplicaciones-apk-con-el.html)
+https://lpericena.blogspot.com/2019/04/descopila-aplicaciones-apk-con-el.html
 
 <p align="center">
-  <a href="https://github.com/Pericena/ApkDcx/tree/master/Documentos"><img src="https://img.shields.io/travis/feross/standard/master.svg" alt="DocumentaciÛn"></a>
-  <a href="https://github.com/Pericena/ApkDcx/tree/master/Codigo"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="CÛdigo"></a>
+  <a href="https://github.com/Pericena/ApkDcx/tree/master/Documentos"><img src="https://img.shields.io/travis/feross/standard/master.svg" alt="Documentaci√≥n"></a>
+  <a href="https://github.com/Pericena/ApkDcx/tree/master/Codigo"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="C√≥digo"></a>
   <a href="https://github.com/Pericena/ApkDcx/tree/master/Aplicaci%C3%B3n"><img src="https://img.shields.io/npm/dm/standard.svg" alt="Downloads"></a>
 </p>
-@Pericena :+1: Autor: LuishiÒo Pericena Ch :shipit:
+@Pericena :+1: Autor: Luishi√±o Pericena Ch :shipit:
 
 Es una programa desarrollado en el lenguaje Bat.
 Es un programa desarrollado en el lenguaje Bat, que tiene una dependencia de otros programas 7za.exe, apktool.jar, apktool_2.3.3.jar.
-Los programas nos ayudara a poder descomprimir o descompilar las aplicaciones que son desarrollada en Android, con la extensiÛnî.apk ìpara poder modificar el cÛdigo y mejorar la aplicaciÛn.
-Podemos mejorar una aplicaciÛn ya que tendremos el cÛdigo fuente, podrÌamos infectar una aplicaciÛn con virus entre otras cosas. Para eso debes tener conocimiento en programaciÛn con el lenguaje Android.
+Los programas nos ayudara a poder descomprimir o descompilar las aplicaciones que son desarrollada en Android, con la extensi√≥n‚Äù.apk ‚Äúpara poder modificar el c√≥digo y mejorar la aplicaci√≥n.
+Podemos mejorar una aplicaci√≥n ya que tendremos el c√≥digo fuente, podr√≠amos infectar una aplicaci√≥n con virus entre otras cosas. Para eso debes tener conocimiento en programaci√≥n con el lenguaje Android.
 * Debe tener instalado el programa JAVA. 
-* Descargar nueva versiÛn https://www.java.com/es/download/
+* Descargar nueva versi√≥n https://www.java.com/es/download/
 
 #### Descargar https://github.com/Pericena/ApkDcx/blob/master/Descargar/ApkDcx.zip
 
-# InstrucciÛn ??
+# Instrucci√≥n ??
 sistema opertaivo 
 - windows
 
@@ -33,8 +33,8 @@ sistema opertaivo
 - Instalar Java
 * https://www.java.com/es/download/
 
-# InstalaciÛn ??
-Pasos para usar la aplicaciÛn
+# Instalaci√≥n ??
+Pasos para usar la aplicaci√≥n
 - Descargar
 - [x] https://github.com/Pericena/ApkDcx
 - [x] https://lpericena.blogspot.com/2018/11/ApkDcx.html
@@ -44,46 +44,46 @@ Pasos para usar la aplicaciÛn
 
 # Ejecutando las pruebas ??
 
-Apk™Dcx
+Apk¬™Dcx
 
-Los paquetes de aplicaciÛn de Android (APK) es el formato usado para distribuir e instalar aplicaciÛnes en el Sistema operativo para mÛviles Android de Google. Hay muchas razones por las cuales querrÌas decompilar un APK, por ejemplo para aprender como funciona una aplicaciÛn, para incrementar la seguridad y complejidad de tu cÛdigo,para robar el cÛdigo fuente de aplicaciones de tercero ... es decir, para analizarlo ... y otras.
-Para decompilar un APK, en este artÌculo usaremos Apk™Dcx, la herramienta de lineas de comando e interf·z gr·fica (GUI) para obtener el cÛdigo fuente de archivos DEX y APK
+Los paquetes de aplicaci√≥n de Android (APK) es el formato usado para distribuir e instalar aplicaci√≥nes en el Sistema operativo para m√≥viles Android de Google. Hay muchas razones por las cuales querr√≠as decompilar un APK, por ejemplo para aprender como funciona una aplicaci√≥n, para incrementar la seguridad y complejidad de tu c√≥digo,para robar el c√≥digo fuente de aplicaciones de tercero ... es decir, para analizarlo ... y otras.
+Para decompilar un APK, en este art√≠culo usaremos Apk¬™Dcx, la herramienta de lineas de comando e interf√°z gr√°fica (GUI) para obtener el c√≥digo fuente de archivos DEX y APK
 
 
 
-* La carpeta aplicaciÛn est· el programa.
-* La carpeta CÛdigo encontraras el cÛdigo fuente para hacerle mejoras a tu gusto y poder contribuir.
+* La carpeta aplicaci√≥n est√° el programa.
+* La carpeta C√≥digo encontraras el c√≥digo fuente para hacerle mejoras a tu gusto y poder contribuir.
 * La carpeta documentos encontraras el informe del programa.
-* La carpeta icon encontraras el icono que se usÛ para compilar el programa.
-* La carpeta im·genes veras algunas pruebas y como se usa. 
-Ingresamos a la carpeta aplicaciÛn para darle el uso a nuestro programa
+* La carpeta icon encontraras el icono que se us√≥ para compilar el programa.
+* La carpeta im√°genes veras algunas pruebas y como se usa. 
+Ingresamos a la carpeta aplicaci√≥n para darle el uso a nuestro programa
 
 
 
 
 # Idioma
 <p align="center">
-  <a href="README-en.md">English</a> ï
-  <a href="README-esla.md">EspaÒol (LatinoamÈrica)</a> ï
-  <a href="README-iteu.md">Italiano (Italian)</a> ï
-  <a href="README-kokr.md">??? (Korean)</a> ï
-  <a href="README-ptbr.md">PortuguÍs (Brasil)</a> ï
-  <a href="README-zhcn.md">???? (Simplified Chinese)</a> ï
+  <a href="README-en.md">English</a> ‚Ä¢
+  <a href="README-esla.md">Espa√±ol (Latinoam√©rica)</a> ‚Ä¢
+  <a href="README-iteu.md">Italiano (Italian)</a> ‚Ä¢
+  <a href="README-kokr.md">??? (Korean)</a> ‚Ä¢
+  <a href="README-ptbr.md">Portugu√™s (Brasil)</a> ‚Ä¢
+  <a href="README-zhcn.md">???? (Simplified Chinese)</a> ‚Ä¢
   <a href="README-zhtw.md">???? (Taiwanese Mandarin)</a>
 </p>
 
 ### Contribuyendo ???
-Por favor lee el [CONTRIBUTING.md](https://github.com/Pericena) para detalles de nuestro cÛdigo de conducta, y el proceso para enviarnos pull requests.
+Por favor lee el [CONTRIBUTING.md](https://github.com/Pericena) para detalles de nuestro c√≥digo de conducta, y el proceso para enviarnos pull requests.
 
-# VersiÛn ??
+# Versi√≥n ??
 
 Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
 
 ## Autor ??
-* **LuishiÒo Pericena Choque** - *creador del programa* - [Pericena](https://github.com/Pericena)
+* **Luishi√±o Pericena Choque** - *creador del programa* - [Pericena](https://github.com/Pericena)
 
 ## Licencia ??
-Este proyecto est· bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto est√° bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
 # Bibliografia
 Instalar JAVA
