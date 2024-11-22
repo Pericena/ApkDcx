@@ -14,52 +14,56 @@ https://lpericena.blogspot.com/2019/04/descopila-aplicaciones-apk-con-el.html
   <a href="https://github.com/Pericena/ApkDcx/tree/master/Codigo"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Código"></a>
   <a href="https://github.com/Pericena/ApkDcx/tree/master/Aplicaci%C3%B3n"><img src="https://img.shields.io/npm/dm/standard.svg" alt="Downloads"></a>
 </p>
-@Pericena :+1: Autor: Luishiño Pericena Ch :shipit:
+@Pericena 👍 **Author:** Luishiño Pericena Ch :shipit:
 
-Es una programa desarrollado en el lenguaje Bat.
-Es un programa desarrollado en el lenguaje Bat, que tiene una dependencia de otros programas 7za.exe, apktool.jar, apktool_2.3.3.jar.
-Los programas nos ayudara a poder descomprimir o descompilar las aplicaciones que son desarrollada en Android, con la extensión”.apk “para poder modificar el código y mejorar la aplicación.
-Podemos mejorar una aplicación ya que tendremos el código fuente, podríamos infectar una aplicación con virus entre otras cosas. Para eso debes tener conocimiento en programación con el lenguaje Android.
-* Debe tener instalado el programa JAVA. 
-* Descargar nueva versión https://www.java.com/es/download/
+This program is developed in the **Batch** scripting language.  
+It depends on additional tools such as **7za.exe**, **apktool.jar**, and **apktool_2.3.3.jar**.
+The program is designed to decompress or decompile Android applications with the ".apk" extension, enabling the modification of the code and improving the application.  
+With access to the source code, you can enhance an application, inject malicious code, or perform other modifications. However, this requires proficiency in Android programming.  
+
+### Requirements:
+- **Java** must be installed on your system.  
+- Download the latest version from [https://www.java.com/en/download/](https://www.java.com/en/download/).
 
 
 ### Donación paypal
 - https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MJPRV838AYA2J&source=url
 
-#### Descargar https://github.com/Pericena/ApkDcx/blob/master/Descargar/ApkDcx.zip
+#### Download https://github.com/Pericena/ApkDcx/blob/master/Descargar/ApkDcx.zip
 
-# Instrucción
-sistema opertaivo 
-- windows
+# Instructions
+- Operating System
+* windows
 
 ### Pre-requisitos
-- Instalar Java
+- Install Java
 * https://www.java.com/es/download/
 
-# Instalación
-Pasos para usar la aplicación
-- Descargar
+# Installation
+Steps to use the application:
+- Download
 - [x] https://github.com/Pericena/ApkDcx
 - [x] https://lpericena.blogspot.com/2019/04/descopila-aplicaciones-apk-con-el.html
 - [ ] https://www.java.com/es/download/
 
 
-# Ejecutando las pruebas 
-
+# Running the tests
 ApkªDcx
 
-Los paquetes de aplicación de Android (APK) es el formato usado para distribuir e instalar aplicaciónes en el Sistema operativo para móviles Android de Google. Hay muchas razones por las cuales querrías decompilar un APK, por ejemplo para aprender como funciona una aplicación, para incrementar la seguridad y complejidad de tu código,para robar el código fuente de aplicaciones de tercero ... es decir, para analizarlo ... y otras.
-Para decompilar un APK, en este artículo usaremos ApkªDcx, la herramienta de lineas de comando e interfáz gráfica (GUI) para obtener el código fuente de archivos DEX y APK
+Android Application Packages (APK) are the format used to distribute and install applications on Google’s Android operating system. There are several reasons you might want to decompile an APK:
 
-* La carpeta aplicación está el programa.
-* La carpeta Código encontraras el código fuente para hacerle mejoras a tu gusto y poder contribuir.
-* La carpeta documentos encontraras el informe del programa.
-* La carpeta icon encontraras el icono que se usó para compilar el programa.
-* La carpeta imágenes veras algunas pruebas y como se usa. 
-Ingresamos a la carpeta aplicación para darle el uso a nuestro programa
+- To understand how an application works.
+- To increase the security and complexity of your own code.
+- To analyze third-party applications (or even reverse-engineer them).
+With ApkªDcx, a command-line and graphical user interface (GUI) tool, you can extract the source code from DEX and APK files efficiently.
 
 
+
+* application/: Contains the main program files.
+* code/: Includes the source code, which you can modify and contribute to.
+* documents/: Holds a detailed program report.
+* icon/: Contains the icon used during program compilation.
+* images/: Provides visual examples and usage tests.
 
 ### Contribuyendo
 Por favor lee el [CONTRIBUTING.md](https://github.com/Pericena) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
@@ -74,7 +78,7 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 ## Licencia
 Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
-# Bibliografia
+# Literature
 Instalar JAVA
  * https://www.java.com/es/download/
 Descargar ApkDcx
@@ -82,4 +86,4 @@ Descargar ApkDcx
  *https://lpericena.blogspot.com/2019/04/descopila-aplicaciones-apk-con-el.html
  
 :pencil:
-?? por [Pericena](https://github.com/Pericena)
+✏️ por [Pericena](https://github.com/Pericena)
